@@ -8,10 +8,9 @@ body {
 
 
 #press-btn{
-    width: 200px;
+    width: 20%;
     height: 200px;
     background-color: red;
-    border-radius: 100%;
     border: 1px solid;
     color: whitesmoke;
 }
