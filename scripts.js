@@ -72,6 +72,7 @@ function hideErorrEl(){
 
 function forFun(){
     money = Infinity;
+    moneyUpdater.innerHTML = moneyText + money
     errorEl.innerHTML = "Congrats! You found the easter egg!"
     errorEl.style.color = "gold"
 }
