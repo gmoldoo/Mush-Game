@@ -8,15 +8,15 @@ body {
     text-align: center;
 }
 
-
 #press-btn{
     width: 20%;
-    height: 250px;
+    height: 370px;
     border-radius: 100%;
     background-color: red;
     border: 1px solid;
     color: whitesmoke;
 }
+
 
 #press-btn:active{
     background-color: white;   
