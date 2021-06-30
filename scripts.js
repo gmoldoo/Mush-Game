@@ -70,4 +70,10 @@ function hideErorrEl(){
     errorEl.innerHTML = ""
 }
 
+function forFun(){
+    money = Infinity;
+    errorEl.innerHTML = "Congrats! You found the easter egg!"
+    errorEl.style.color = "gold"
+}
+
 setInterval(hideErorrEl,5000)
