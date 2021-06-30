@@ -10,8 +10,8 @@ body {
 
 
 #press-btn{
-    width: 400px;
-    height: 400px;
+    width: 20%;
+    height: 250px;
     border-radius: 100%;
     background-color: red;
     border: 1px solid;
@@ -19,9 +19,7 @@ body {
 }
 
 #press-btn:active{
-    background-color: white;
-
-    
+    background-color: white;   
 }
 
 
