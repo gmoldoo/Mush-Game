@@ -1,2 +1,2 @@
 # Mush-Game
-A clicker game
+A click game
