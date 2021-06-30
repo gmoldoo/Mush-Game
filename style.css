@@ -6,12 +6,12 @@ body {
 }
 
 
+
 #press-btn{
-    width: 20%;
-    height: 300px;
+    width: 50%;
+    height: 200px;
     background-color: red;
     border: 1px solid;
-    border-radius: 100%;
     color: whitesmoke;
 }
 
